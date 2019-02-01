@@ -1,0 +1,15 @@
+D:\Workspaces\Partner\Main\EmployerPartners\FilterLibrary\bin\Debug\FilterLibrary.dll
+D:\Workspaces\Partner\Main\EmployerPartners\FilterLibrary\bin\Debug\FilterLibrary.pdb
+D:\Workspaces\Partner\Main\EmployerPartners\FilterLibrary\bin\Debug\System.Linq.Dynamic.dll
+D:\Workspaces\Partner\Main\EmployerPartners\FilterLibrary\bin\Debug\System.ValueTuple.dll
+D:\Workspaces\Partner\Main\EmployerPartners\FilterLibrary\bin\Debug\System.ValueTuple.xml
+D:\Workspaces\Partner\Main\EmployerPartners\FilterLibrary\obj\Debug\FilterLibrary.DigitalIntervalPicker.resources
+D:\Workspaces\Partner\Main\EmployerPartners\FilterLibrary\obj\Debug\FilterLibrary.FilterEditor.resources
+D:\Workspaces\Partner\Main\EmployerPartners\FilterLibrary\obj\Debug\FilterLibrary.IntervalPicker.resources
+D:\Workspaces\Partner\Main\EmployerPartners\FilterLibrary\obj\Debug\FilterLibrary.TimeIntervalPicker.resources
+D:\Workspaces\Partner\Main\EmployerPartners\FilterLibrary\obj\Debug\FilterLibrary.csproj.GenerateResource.cache
+D:\Workspaces\Partner\Main\EmployerPartners\FilterLibrary\obj\Debug\FilterLibrary.csproj.CoreCompileInputs.cache
+D:\Workspaces\Partner\Main\EmployerPartners\FilterLibrary\obj\Debug\FilterLibrary.csproj.CopyComplete
+D:\Workspaces\Partner\Main\EmployerPartners\FilterLibrary\obj\Debug\FilterLibrary.dll
+D:\Workspaces\Partner\Main\EmployerPartners\FilterLibrary\obj\Debug\FilterLibrary.pdb
+D:\Workspaces\Partner\Main\EmployerPartners\FilterLibrary\obj\Debug\FilterLibrary.csprojAssemblyReference.cache
